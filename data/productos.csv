@@ -1,0 +1,5 @@
+codigo,nombre,precio,existencia,stock_minimo
+P001,Cuaderno,12.5,40,10
+P002,Lapicero azul,3.0,100,20
+P003,Mochila,150.0,8,5
+0201,pan,18.0,1,8
